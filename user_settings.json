@@ -1,0 +1,42 @@
+{
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\b003438\\Downloads\\cmder\\vscode.bat"],
+    "editor.snippetSuggestions": "top",
+    "window.zoomLevel": 0,
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#64FFDA",
+        "list.activeSelectionForeground": "#64FFDA",
+        "list.inactiveSelectionForeground": "#64FFDA",
+        "list.highlightForeground": "#64FFDA",
+        "scrollbarSlider.activeBackground": "#64FFDA50",
+        "editorSuggestWidget.highlightForeground": "#64FFDA",
+        "textLink.foreground": "#64FFDA",
+        "progressBar.background": "#64FFDA",
+        "pickerGroup.foreground": "#64FFDA"
+    },
+    "materialTheme.cache.workbench.settings": {
+        "accent": "Bright Teal",
+        "accentPrevious": "Cyan",
+        "themeColours": "Default"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "files.eol": "\n",
+    "gitlens.gitExplorer.files.layout": "tree",
+    "projectManager.showProjectNameInStatusBar": true,
+    "projectManager.groupList": true,
+    "workbench.panel.location": "bottom",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "git.autofetch": true,
+    "workbench.colorTheme": "Slime",
+    "extensions.ignoreRecommendations": false
+}
