@@ -1,0 +1,29 @@
+code --list-extensions | xargs -L 1 echo code --install-extension
+
+// work pc
+code --list-extensions | xargs -L 1 echo code --install-extension
+code --install-extension arcticicestudio.nord-visual-studio-code
+code --install-extension be5invis.theme-verdandi
+code --install-extension burkeholland.simple-react-snippets
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension EditorConfig.EditorConfig
+code --install-extension eg2.vscode-npm-script
+code --install-extension flowtype.flow-for-vscode
+code --install-extension hedinne.popping-and-locking-vscode
+code --install-extension humao.rest-client
+code --install-extension joelday.docthis
+code --install-extension johnpapa.winteriscoming
+code --install-extension kleber-swf.ocean-dark-extended
+code --install-extension lukasz-wronski.ftp-sync
+code --install-extension mikestead.dotenv
+code --install-extension mrnfor.tsunetsuki-theme
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension naumovs.color-highlight
+code --install-extension paulmolluzzo.convert-css-in-js
+code --install-extension rmarganti.vsc-material-facebook-theme
+code --install-extension rubbersheep.gi
+code --install-extension Serge.vsc-material-theme-italicize
+code --install-extension smlombardi.slime
+code --install-extension taichi.react-beautify
+code --install-extension wayou.vscode-todo-highlight
+code --install-extension xabikos.JavaScriptSnippets
