@@ -27,3 +27,25 @@ code --install-extension smlombardi.slime
 code --install-extension taichi.react-beautify
 code --install-extension wayou.vscode-todo-highlight
 code --install-extension xabikos.JavaScriptSnippets
+
+// alfred pc
+code --install-extension arcticicestudio.nord-visual-studio-code
+code --install-extension bernardodsanderson.theme-material-neutral
+code --install-extension burkeholland.simple-react-snippets
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension codezombiech.gitignore
+code --install-extension EditorConfig.EditorConfig
+code --install-extension eg2.vscode-npm-script
+code --install-extension humao.rest-client
+code --install-extension joelday.docthis
+code --install-extension lukasz-wronski.ftp-sync
+code --install-extension michelemelluso.code-beautifier
+code --install-extension mrmlnc.vscode-scss
+code --install-extension mrnfor.tsunetsuki-theme
+code --install-extension ms-mssql.mssql
+code --install-extension naumovs.color-highlight
+code --install-extension RobinMalfait.prettier-eslint-vscode
+code --install-extension taichi.react-beautify
+code --install-extension tinkertrain.theme-panda
+code --install-extension TwentyChung.jsx
+code --install-extension xabikos.JavaScriptSnippets
